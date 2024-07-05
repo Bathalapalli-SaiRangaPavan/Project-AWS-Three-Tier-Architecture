@@ -1,4 +1,4 @@
-# AWS Three-Tier Architecture: Networking and Security Setup Guide
+# AWS Three-Tier Architecture: Networking and Security Setup Guide 
 
 ## Key Points
 
